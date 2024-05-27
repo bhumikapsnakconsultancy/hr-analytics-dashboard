@@ -1,3 +1,9 @@
+Dashboard Images
+![Dashboard](https://github.com/bhumikapsnakconsultancy/hr-analytics-dashboard.git/blob/main/images/Dashboard.png)
+![Dashboard_filter_by_HR_Department](https://github.com/bhumikapsnakconsultancy/hr-analytics-dashboard.git/blob/main/images/Dashboard_filter_by_HR_Department.png)
+![Dashboard_filter_by_R_And_D_department](https://github.com/bhumikapsnakconsultancy/hr-analytics-dashboard.git/blob/main/images/Dashboard_filter_by_R_And_D_department.png)
+![Dashboard_filter_by_sales_department](https://github.com/bhumikapsnakconsultancy/hr-analytics-dashboard.git/blob/main/images/Dashboard_filter_by_sales_department.png)
+
 Data Used
 Data – HR Data with over 1481 rows from the year 2000 to 2022 with the information about each employee’s id, Age, AgeGroup, Attrition, BusinessTravel	
 , DailyRate, Department ,Education etc.
